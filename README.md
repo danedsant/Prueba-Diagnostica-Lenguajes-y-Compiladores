@@ -31,7 +31,7 @@ Este programa abre y lee un archivo de código fuente llamado `codigo.c`. Recorr
 ---
 ### 📜 Requisitos para ejecutar archivos de Java:
 - Instalar JDK 21
-  - Instalable mediante el comando de POWERSHELL:
+  - Instalable usando el gestor de paquetes `winget` mediante el siguiente comando de **POWERSHELL**:
  ```powershell
  winget install Microsoft.OpenJDK.21
  ```
