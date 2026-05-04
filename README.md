@@ -1,7 +1,7 @@
 # Prueba Diagnóstica - Lenguajes y Compiladores - Seccion 2
 **Alumno:** Daniel Villalba Santamaría
 
-Este repo contiene la serie de problemas como parte de la primera asignación en la materia de Lenguajes y Compiladores en la UNEG, en el cual desglosamos la descripcion y solucion los mismos y lo necesario para poder compilar y ejecutarlos
+Este repo contiene la serie de problemas planteados como parte de la primera asignación en la materia de Lenguajes y Compiladores en la UNEG, en el cual desglosamos la descripcion y solucion los mismos y lo necesario para poder compilar y ejecutarlos
 
 
 
@@ -42,7 +42,7 @@ Este programa abre y lee un archivo de código fuente llamado `codigo.c`. Recorr
 ---
 
 ### 📷 Video Defensa
-[![Danedsant](https://img.shields.io/badge/Youtube-Defensa-red)](https://youtu.be/L49pufBbC1M) **https://youtu.be/L49pufBbC1M**
+[![Danedsant](https://img.shields.io/badge/Youtube-red)](https://youtu.be/L49pufBbC1M) **https://youtu.be/L49pufBbC1M**
 
 <a href="https://www.youtube.com/watch?v=L49pufBbC1M">
   <img src="https://img.youtube.com/vi/L49pufBbC1M/maxresdefault.jpg" alt="Demostración del Proyecto" width="300">
