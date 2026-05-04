@@ -21,7 +21,7 @@ Este problema nos pide recibir una cadena de texto y validar si está correctame
 
 ---
 
-###  Problema 3: Traductor de Palabras Reservadas de un programa en C
+###  Problema 3: Detector/Traductor de Palabras Reservadas de un programa en lenguaje C
 Este programa abre y lee un archivo de código fuente llamado `codigo.c`. Recorre su contenido en memoria dinámica para identificar palabras reservadas propias del lenguaje C y muestra por consola la traducción al español de cada una de las palabras reservadas que logre detectar dentro del código analizado.
 * **Lenguaje utilizado:** ![Dev C++](https://img.shields.io/badge/C-red)
 --- 
