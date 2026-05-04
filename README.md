@@ -1,5 +1,6 @@
-# Prueba Diagnóstica - Lenguajes y Compiladores - Seccion 2
-**Alumno:** Daniel Villalba Santamaría
+# Prueba Diagnóstica
+**Alumno:** Daniel Villalba Santamaría  
+**Seccion**: 2
 
 Este repo contiene la serie de problemas planteados como parte de la primera asignación en la materia de Lenguajes y Compiladores en la UNEG, en el cual desglosamos la descripcion y solucion los mismos y lo necesario para poder compilar y ejecutarlos
 
@@ -17,13 +18,13 @@ Este programa solicita al usuario un número entero no negativo `n` y un valor `
 
 ###  Problema 2: Validador de Notación FEN 
 Este problema nos pide recibir una cadena de texto y validar si está correctamente escrita en notación FEN (Forsyth-Edwards Notation), la cual se utiliza para representar posiciones en un tablero de ajedrez. El algoritmo verifica  que la cadena contenga los 6 campos reglamentarios, los cuales son piezas, turno, enroque, peón al paso, reloj y número de movimientos y que la distribución de las filas sume exactamente 8 casillas.
-* **Lenguaje utilizado:** ![Java](https://img.shields.io/badge/Java-white)
+* **Lenguaje:**  ![Java](https://img.shields.io/badge/Java-white)
 
 ---
 
 ###  Problema 3: Detector/Traductor de Palabras Reservadas de un programa en lenguaje C
 Este programa abre y lee un archivo de código fuente llamado `codigo.c`. Recorre su contenido en memoria dinámica para identificar palabras reservadas propias del lenguaje C y muestra por consola la traducción al español de cada una de las palabras reservadas que logre detectar dentro del código analizado.
-* **Lenguaje utilizado:** ![Dev C++](https://img.shields.io/badge/C-red)
+* **Lenguaje:** ![Dev C++](https://img.shields.io/badge/C-red)
 --- 
 ### 📜 Requisitos para ejecutar archivos de C y C++ 
    - Abrir `Problema1.cpp` o `Problema_3.c` en el entorno [![Dev c++](https://img.shields.io/badge/Dev_c++-red)](https://sourceforge.net/projects/embarcadero-devcpp/)
@@ -31,7 +32,7 @@ Este programa abre y lee un archivo de código fuente llamado `codigo.c`. Recorr
 ---
 ### 📜 Requisitos para ejecutar archivos de Java:
 - Instalar JDK 21
-  - Instalable usando el gestor de paquetes `winget` mediante el siguiente comando de **POWERSHELL**:
+  - Instalable usando el gestor de paquetes `winget` mediante el siguiente comando de [![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#):
  ```powershell
  winget install Microsoft.OpenJDK.21
  ```
@@ -42,7 +43,7 @@ Este programa abre y lee un archivo de código fuente llamado `codigo.c`. Recorr
 ---
 
 ### 📷 Video Defensa
-[![Danedsant](https://img.shields.io/badge/Youtube-red)](https://youtu.be/L49pufBbC1M) **https://youtu.be/L49pufBbC1M**
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=black)](#) **https://youtu.be/L49pufBbC1M**
 
 <a href="https://www.youtube.com/watch?v=L49pufBbC1M">
   <img src="https://img.youtube.com/vi/L49pufBbC1M/maxresdefault.jpg" alt="Demostración del Proyecto" width="300">
