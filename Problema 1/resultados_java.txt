@@ -1,0 +1,5 @@
+Resultado en Java
+Grado del polinomio n = 100
+Valor de x = 2
+Resultado de f(2) = 515377520732011400000000000000000000000000000000
+Tiempo: 204 ms 

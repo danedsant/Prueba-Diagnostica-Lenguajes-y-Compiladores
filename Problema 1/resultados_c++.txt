@@ -1,0 +1,5 @@
+Resultado en C++
+Grado del polinomio n = 100
+Valor de x = 2
+Resultado de f(2) = 515377520732011405324234683475300136641464631296
+Tiempo: 369 ms 
